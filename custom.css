@@ -1,0 +1,31 @@
+img {
+    height: 60px;
+}
+
+.bg{
+    background-color: #e5e5e5;
+    padding: 15px 0;    
+}
+
+ul{
+    list-style: none;
+}
+
+li {
+    display: inline-block;
+    float: right;
+}
+
+
+li a {
+    display: block;
+    padding: 5px 25px;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+
+
+a:hover{
+    background: lightblue;
+    padding: 5px 25px;
+}   
